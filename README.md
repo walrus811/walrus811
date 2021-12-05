@@ -20,9 +20,9 @@
 <br/>
 
 - 🏠 경기도 안산에서 자랐고 현재 서울에 살고 있지
-- I was born and raised in [Ansan, Gyeonggi-do](https://en.wikipedia.org/wiki/Ansan) and I'm living in Seoul for work
+- I was born and raised in [Ansan, Gyeonggi-do](https://en.wikipedia.org/wiki/Ansan), but I'm living in Seoul for work
 
 <br/>
 
 - 🎮 취미는 비디오 게임이고 장르나 기종 안 가리고 뭐든 하는 편이지
-- I usually enjoy video games and don't mind genre and platform
+- I usually enjoy video games and don't mind genre and platforms
