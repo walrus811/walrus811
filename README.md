@@ -1,4 +1,4 @@
-- 👋 안녕, 난 일엽(ilyeop)이라고 해
+- 👋 안녕, 난 김일엽(ilyeop)이라고 해
 - or you can call me Rayray or Ray
 - 一燁✨
 
