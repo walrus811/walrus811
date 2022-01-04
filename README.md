@@ -9,8 +9,8 @@
 
 <br/>
 
-- 🔍 요즘 웹 프론트엔드 개발에 몹시 관심이 많아
-- I'm so interested in Web frontend development nowadays  
+- 🔍 요즘 웹 프론트엔드 개발에 몹시 관심이 많아, 아닌가?
+- I'm so interested in Web frontend development nowadays, well, maybe not  
 
 <br/>
 
